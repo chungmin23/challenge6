@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAmSR17jiLPR9QzR1VdCoCRzp6jbKiRLlg',
-    appId: '1:16314739488:android:14bc9686ab275c78fec545',
-    messagingSenderId: '16314739488',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'challenge6-2cf47',
     storageBucket: 'challenge6-2cf47.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAcfUgIwWjtAV-0OW5XRAOEZSmYRZAa4mk',
-    appId: '1:16314739488:ios:c018c3e0d5ac867bfec545',
-    messagingSenderId: '16314739488',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'challenge6-2cf47',
     storageBucket: 'challenge6-2cf47.firebasestorage.app',
     iosBundleId: 'com.example.challenge6',
